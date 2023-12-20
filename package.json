@@ -12,13 +12,8 @@
     "author": "siva",
     "license": "ISC",
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/sivakumar8838/Kitchen-Recipe-management-Backend"
+      "type": "git"
     },
-    "bugs": {
-      "url": "https://github.com/sivakumar8838/Kitchen-Recipe-management-Backend"
-    },
-    "homepage": "https://github.com/sivakumar8838/Kitchen-Recipe-management-Backend#readme",
     "devDependencies": {
       "nodemon": "^3.0.1"
     },
